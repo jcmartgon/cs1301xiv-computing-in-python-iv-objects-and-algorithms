@@ -4,5 +4,5 @@ GTx's course on Object Oriented Programming and Algorithms in Python. Found [her
 
 ## Chapters
 - [x] Objects
-- [ ] Algorithms
-- [ ] Course Recap
+- [x] Algorithms
+- [x] Extras
