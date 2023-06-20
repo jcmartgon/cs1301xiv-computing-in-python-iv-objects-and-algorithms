@@ -1,5 +1,5 @@
 # Jesus Carlos Martinez Gonzalez
-# 18/06/023
+# 18/06/23
 # Pig Latin
 
 # Pig Latin is a fictitious language. To translate a word into

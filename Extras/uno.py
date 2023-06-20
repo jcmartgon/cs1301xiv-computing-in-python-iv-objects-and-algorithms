@@ -1,5 +1,5 @@
 # Jesus Carlos Martinez Gonzalez
-# 18/06/023
+# 18/06/23
 # Uno
 
 # The game Uno is a card game where each player's goal is

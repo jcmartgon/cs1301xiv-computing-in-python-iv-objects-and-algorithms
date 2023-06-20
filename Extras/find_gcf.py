@@ -1,5 +1,5 @@
 # Jesus Carlos Martinez Gonzalez
-# 18/06/023
+# 18/06/23
 # Find GCF
 
 # The Greatest Common Factor (GCF) of two numbers is the
